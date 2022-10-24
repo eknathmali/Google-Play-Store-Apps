@@ -1,4 +1,4 @@
-# Google-Play-Store-Apps
+# Google-Play-Store Apps
 1. I have made the analysis of apps across the world on the basis of apps category, apps ratings, user reviews.
 2. In this Project, I have Used Python libraries such as [Pandas](https://pandas.pydata.org),[Matplotlib](https://matplotlib.org),
       [Seaborn](https://seaborn.pydata.org),[plotly](https://plotly.com)  for Manipulation, Analysis, and Visualization of the app's data.
