@@ -5,4 +5,4 @@
 3. I hope this project would have helped android developers they have got an idea about which apps should be made and which precautions should 
    be taken.
 4. I have used the real apps dataset from [Kaggle](https://www.kaggle.com/).
-5. I hope you liked it.  <h1>Thank You</h1>1. 
+5. I hope you liked it.  <h1>Thank You</h1>
